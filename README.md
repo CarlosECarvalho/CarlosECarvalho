@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosecarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="carlosecarvalho" /> </p>
 
-- Atualmente eu trabalho como **Helpdesk**
+- Atualmente eu trabalho como **Programador Junior FullStack**
 
-- 👯 Estou buscando a primeira oportunidade como **programador**
+- 👯 Buscando me especializar como **Programador BackEnd**
 
-- ⚡ Fun fact **Eu adoro eventos tec**
+- ⚡ Fun fact **Eu coordeno uma das maiores comunidades online de alunos da UFF**
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
